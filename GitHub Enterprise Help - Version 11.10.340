@@ -1,0 +1,1832 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.github.com/enterprise/11.10.340/admin/
+Subject: GitHub Enterprise Help - Version 11.10.340
+Date: Fri, 24 Nov 2023 07:30:15 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YV1ze0cgFdVE22L4XEGfw0N1yZrCCfDmYvoOj3YdVP----"
+
+
+------MultipartBoundary--YV1ze0cgFdVE22L4XEGfw0N1yZrCCfDmYvoOj3YdVP----
+Content-Type: text/html
+Content-ID: <frame-5C44C4BC86E64931E653A4690354ABD1@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.github.com/enterprise/11.10.340/admin/
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="search" type="application/opensearchdescription+xml" href="https://docs.github.com/opensearch.xml" title="GitHub:Help">
+  <title>
+
+    GitHub Enterprise Help - Version 11.10.340
+
+  </title>
+  <link rel="icon" type="image/x-icon" href="https://docs.github.com/assets/images/site/favicon.ico">
+  <link rel="stylesheet" href="https://docs.github.com/enterprise/11.10.340/user/assets/stylesheets/application.css">
+  
+  
+
+  
+
+  
+
+<meta name="robots" content="noindex">
+</head>
+
+<body id="com" class="enterprise-mode platform-switch platform-linux">
+<div id="not-footer">
+  <div id="enterprise-header">
+    <div class="clearfix">
+      <a class="enterprise-site-logo" href="https://docs.github.com/enterprise/11.10.340/admin/">
+        <img alt="Github enterprise logo" width="216px" height="40px" src="https://docs.github.com/assets/images/site/github-enterprise-logo.png">
+      </a>
+      <ul class="top-nav">
+        <li>
+          <button class="js-dropdown-button dropdown-button">Version <div class="dropdown-caret"></div></button>
+          <div class="dropdown-menu js-dropdown-menu">
+            <div class="dropdown-menu-header">2.0</div>
+            <a href="https://docs.github.com/enterprise/2.0/user">User Documentation</a>
+            <a href="https://docs.github.com/enterprise/2.0/admin">Admin Documentation</a>
+            <div class="dropdown-menu-header">11.10.340</div>
+            <a href="https://docs.github.com/enterprise/11.10.340/user">User Documentation</a>
+            <a href="https://docs.github.com/enterprise/11.10.340/admin">Admin Documentation</a>
+          </div>
+        </li>
+        <li><a href="https://enterprise.github.com/support">Support</a></li>
+        <li><a href="https://enterprise.github.com/">Return to GitHub Enterprise</a></li>
+      </ul>
+
+    </div>
+  </div>
+
+  <div id="content-wrapper" class="enterprise-docs">
+    <div class="site">
+
+  <div class="deprecation-notice"><p><strong>This version of GitHub Enterprise was discontinued on August 4th, 2015.</strong> No patch releases will be made, even for critical security issues. For better performance, improved security, and new features, <a href="https://docs.github.com/enterprise/admin/guides/installation/migrating-to-a-different-platform-or-from-github-enterprise-11-10-34x/">upgrade to the latest version of GitHub Enterprise</a>. For help with the upgrade, <a href="https://enterprise.github.com/support">contact GitHub Enterprise support</a>.</p></div>
+
+
+      <div class="page-header">
+  <div class="search-form big right">
+
+
+
+
+
+
+
+
+
+
+<div class="autocomplete-results" style="display: none;">
+  <table class="result-group" border="0" cellpadding="0" cellspacing="0">
+  </table>
+</div>
+
+  </div>
+
+  <h1>Admin Documentation</h1>
+</div>
+
+<div id="article-list-container" class="js-hide-during-search">
+  <div id="subnav"></div>
+
+  <div id="common-issues">
+    <h3>Common Issues</h3>
+    <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/getting-started-with-vmware" class="km-article-link">Getting started with VMware</a>
+        </li>
+
+    </ul>
+  </div>
+
+  <ul id="categories">
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/admin-bootcamp">Admin Bootcamp</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adding-teams" class="km-article-link">Adding teams</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/creating-organizations" class="km-article-link">Creating organizations</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/inviting-users" class="km-article-link">Inviting users</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/api">API</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/about-the-enterprise-api" class="km-article-link">About the Enterprise API</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/authentication">Authentication</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/about-ldap-authentication" class="km-article-link">About LDAP authentication</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/configuring-ldap-authentication" class="km-article-link">Configuring LDAP authentication</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/viewing-ldap-users" class="km-article-link">Viewing LDAP users</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/about-github-oauth" class="km-article-link">About GitHub OAuth</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/configuring-github-oauth" class="km-article-link">Configuring GitHub OAuth</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/about-cas-authentication" class="km-article-link">About CAS authentication</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/backups-and-restores">Backups and Restores</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/backup-and-recovery" class="km-article-link">Backup and recovery</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/backing-up-github-enterprise" class="km-article-link">Backing up GitHub Enterprise</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/restoring-github-enterprise" class="km-article-link">Restoring GitHub Enterprise</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/customization">Customization</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/blocking-force-pushes-for-a-user-account" class="km-article-link">Blocking force pushes for a user account</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/blocking-force-pushes-for-an-organization" class="km-article-link">Blocking force pushes for an organization</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/blocking-force-pushes-to-a-repository" class="km-article-link">Blocking force pushes to a repository</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/avatars-and-identicons" class="km-article-link">Avatars and identicons</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/enabling-avatars" class="km-article-link">Enabling avatars</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/disabling-sign-ups" class="km-article-link">Disabling sign-ups</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/general">General</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/activity-dashboard" class="km-article-link">Activity dashboard</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/command-line-utilities" class="km-article-link">Command-line utilities</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/configuring-firewalls" class="km-article-link">Configuring firewalls</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/configuring-email" class="km-article-link">Configuring email</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/troubleshooting-email" class="km-article-link">Troubleshooting email</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/site-admin-dashboard" class="km-article-link">Site admin dashboard</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/hypervisors">Hypervisors</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/getting-started-with-virtualbox" class="km-article-link">Getting started with VirtualBox</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/getting-started-with-vmware" class="km-article-link">Getting started with VMware</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/installing-virtualbox-guest-additions" class="km-article-link">Installing VirtualBox guest additions</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/installing-vmware-tools" class="km-article-link">Installing VMware Tools</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/vmware-esxi-virtual-machine-maximums" class="km-article-link">VMware ESXi virtual machine maximums</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/integration">Integration</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/troubleshooting-service-hooks" class="km-article-link">Troubleshooting service hooks</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/licenses">Licenses</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/license-files" class="km-article-link">License files</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/downloading-your-license" class="km-article-link">Downloading your license</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/upgrading-your-license" class="km-article-link">Upgrading your license</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/logging-and-monitoring">Logging and Monitoring</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/audit-logging" class="km-article-link">Audit logging</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/searching-the-audit-log" class="km-article-link">Searching the audit log</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/audited-actions" class="km-article-link">Audited actions</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/viewing-push-logs" class="km-article-link">Viewing push logs</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/configuring-collectd" class="km-article-link">Configuring collectd</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/log-forwarding" class="km-article-link">Log forwarding</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/monitoring-using-snmp" class="km-article-link">Monitoring using SNMP</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/support-bundles" class="km-article-link">Support Bundles</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/maintenance-mode">Maintenance mode</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/maintenance-mode" class="km-article-link">Maintenance mode</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/enabling-maintenance-mode" class="km-article-link">Enabling maintenance mode</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/disabling-maintenance-mode" class="km-article-link">Disabling maintenance mode</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/management-console">Management Console</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/about-the-management-console" class="km-article-link">About the Management Console</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/accessing-the-management-console" class="km-article-link">Accessing the Management Console</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/management-console-for-emergency-recovery" class="km-article-link">Management Console for emergency recovery</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/migrations-and-upgrades">Migrations and Upgrades</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/migrations-and-upgrades" class="km-article-link">Migrations and upgrades</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/upgrading-to-the-latest-release" class="km-article-link">Upgrading to the latest release</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/migrating-a-block-device" class="km-article-link">Migrating a block device</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/moving-a-repository-from-github-com-to-github-enterprise" class="km-article-link">Moving a repository from GitHub.com to GitHub Enterprise</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/security">Security</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/firewall" class="km-article-link">Firewall</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/private-mode" class="km-article-link">Private mode</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/ssl-configuration" class="km-article-link">SSL configuration</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/using-self-signed-ssl-certificates" class="km-article-link">Using self-signed SSL certificates</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/ssh">SSH</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/ssh-access" class="km-article-link">SSH access</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adding-an-ssh-key-for-shell-access" class="km-article-link">Adding an SSH key for shell access</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/restricting-ssh-access-to-specific-hosts" class="km-article-link">Restricting SSH access to specific hosts</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/auditing-ssh-keys" class="km-article-link">Auditing SSH keys</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/troubleshooting-ssh-permission-denied-publickey" class="km-article-link">Troubleshooting SSH: Permission denied (publickey)</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/storage">Storage</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adding-a-block-device-virtualbox" class="km-article-link">Adding a block device (VirtualBox)</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adding-a-block-device-vmware" class="km-article-link">Adding a block device (VMware)</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/increasing-available-disk-space" class="km-article-link">Increasing available disk space</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/time">Time</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adjusting-the-clock" class="km-article-link">Adjusting the clock</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/setting-ntp-servers" class="km-article-link">Setting NTP servers</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/setting-the-time-zone" class="km-article-link">Setting the time zone</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+
+
+    <li class="category">
+
+      <h5>
+        <span class="handle"></span>
+        <a href="https://docs.github.com/enterprise/11.10.340/admin/categories/user-management">User Management</a>
+      </h5>
+
+      <ul class="chevron list">
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/adding-users-and-teams" class="km-article-link">Adding users and teams</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/dormant-users" class="km-article-link">Dormant users</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/determining-whether-a-user-account-is-dormant" class="km-article-link">Determining whether a user account is dormant</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/viewing-dormant-users" class="km-article-link">Viewing dormant users</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/suspended-users" class="km-article-link">Suspended users</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/suspending-a-user" class="km-article-link">Suspending a user</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/unsuspending-a-user" class="km-article-link">Unsuspending a user</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/viewing-suspended-users" class="km-article-link">Viewing suspended users</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/promoting-a-site-administrator" class="km-article-link">Promoting a site administrator</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/demoting-a-site-administrator" class="km-article-link">Demoting a site administrator</a>
+        </li>
+
+        <li class="article">
+          <a href="https://docs.github.com/enterprise/11.10.340/admin/articles/rebuilding-contributions-data" class="km-article-link">Rebuilding contributions data</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+  </ul>
+</div>
+
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<div id="footer">
+  <div class="inner">
+    <a href="https://github.com/" class="invertocat">
+      <img alt="The GitHub Logo" src="https://docs.github.com/assets/images/site/invertocat.png" width="24" height="24">
+    </a>
+    <p class="left">
+      © <span id="year">2014</span> GitHub Inc. All rights reserved.
+    </p>
+      <ul class="links right">
+        <li><a href="https://docs.github.com/articles/github-terms-of-service/">Terms of Service</a></li>
+        <li><a href="https://docs.github.com/articles/github-privacy-policy/">Privacy</a></li>
+        <li><a href="https://docs.github.com/articles/github-security/">Security</a></li>
+        <li><a href="https://enterprise.github.com/support">Support</a></li>
+      </ul>
+  </div>
+</div>
+<div class="fullscreen-overlay"></div>
+
+
+</body></html>
+------MultipartBoundary--YV1ze0cgFdVE22L4XEGfw0N1yZrCCfDmYvoOj3YdVP----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.github.com/enterprise/11.10.340/user/assets/stylesheets/application.css
+
+@charset "utf-8";
+
+@font-face { font-family: octicons; src: url("/enterprise/11.10.340/user/assets/vendor/octicons/octicons/octicons.woff") format("woff"), url("/assets/vendor/octicons/octicons/octicons.ttf") format("truetype"); }
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+body { line-height: 1; }
+
+ol, ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+blockquote::before, blockquote::after, q::before, q::after { content: none; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+.not-found-container { margin: 50px auto 40px; width: 600px; text-align: center; }
+
+.not-found-container h1 { letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px; text-shadow: rgb(255, 255, 255) 0px 1px 0px; }
+
+.not-found-container p { color: rgb(128, 128, 128); }
+
+.not-found-container .octicon { display: none; }
+
+body div.article div.platform-mac, body div.article div.platform-windows, body div.article div.platform-linux, body div.article span.platform-mac, body div.article span.platform-windows, body div.article span.platform-linux { display: none; }
+
+body.platform-switch div.article div.platform-all, body.platform-switch div.article span.platform-all { display: none; }
+
+body.platform-switch.platform-mac div.article .platform-mac, body.platform-switch.platform-windows div.article .platform-windows, body.platform-switch.platform-linux div.article .platform-linux, body.platform-switch.platform-all div.article .platform-all { display: inline; }
+
+div.article { float: left; padding-right: 15px; width: 690px; }
+
+div.article h2.staff-only { position: relative; }
+
+div.article h2.staff-only .article-label { position: absolute; top: 27px; left: -75px; width: 65px; margin-top: -14px; text-align: right; font-size: 11px; text-transform: uppercase; color: rgb(185, 185, 185); font-weight: 300; letter-spacing: 0px; text-shadow: none; }
+
+div.article h2.staff-only .article-label span { padding: 3px 6px 2px; background-color: rgb(248, 238, 199); border-radius: 3px; color: rgb(161, 136, 43); }
+
+div.article .full-image { position: absolute; top: 5px; right: -20px; z-index: 100; }
+
+div.article .full-image img { position: absolute; top: 0px; right: 20px; margin: 0px; max-width: 600px; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 3px; }
+
+div.article .full-image:hover .octicon-x { color: rgb(102, 102, 102); }
+
+div.article .full-image .octicon-x { position: absolute; top: 0px; right: 0px; color: rgb(153, 153, 153); cursor: pointer; }
+
+div.article .emoji { padding: 0px; border: 0px; }
+
+div.article #article-platform-nav { display: none; }
+
+div.article #article-platform-nav ul { overflow: hidden; margin-left: -5px; }
+
+div.article #article-platform-nav ul li { display: block; float: left; font-size: 10px; text-transform: uppercase; font-weight: bold; padding-bottom: 5px; }
+
+div.article #article-platform-nav ul li:first-child a { border: none; }
+
+div.article #article-platform-nav ul li a { border-left: 1px solid rgb(153, 153, 153); padding: 0px 5px; }
+
+div.article #article-platform-nav ul li.selected { color: rgb(102, 102, 102); cursor: default; background: url("/assets/images/site/under-triangle.gif") center bottom no-repeat transparent; }
+
+div.article #article-platform-nav ul li.selected a { color: rgb(51, 51, 51); }
+
+div.article div.helper { margin: 0.7em 0px; position: relative; }
+
+div.article div.helper.closed h4.header { border-radius: 3px; background-clip: padding-box; }
+
+div.article div.helper h4.header { height: 30px; border-width: 1px; border-style: solid; border-color: rgb(234, 234, 234) rgb(234, 234, 234) rgb(202, 202, 202); border-image: initial; border-radius: 3px 3px 0px 0px; background: url("/assets/images/site/gradient-sprite.png") 0px -94px repeat-x transparent; margin: 0px; }
+
+div.article div.helper h4.header a { display: block; padding: 0px 0px 0px 32px; background: url("/assets/images/site/info-icon.png") 8px center no-repeat transparent; color: rgb(119, 119, 119); font-size: 12px; line-height: 31px; font-weight: bold; text-shadow: rgb(255, 255, 255) 0px 1px 0px; cursor: pointer; text-decoration: none; }
+
+div.article div.helper h4.header:hover { background-position: 0px -128px; }
+
+div.article div.helper h4.header:hover a { color: rgb(65, 131, 196); }
+
+div.article div.helper div.content { padding: 20px; border-style: solid; border-color: rgb(234, 234, 234); border-image: initial; border-width: 0px 1px 1px; border-radius: 0px 0px 3px 3px; background-clip: padding-box; }
+
+div.article div.helper div.content > p:first-child, div.article div.helper div.content > h3:first-child { margin-top: 0px; padding-top: 0px; }
+
+div.article div.helper div.content > p:last-child, div.article div.helper div.content > blockquote:last-child { margin-bottom: 0px; padding-bottom: 0px; }
+
+div.article div.helper div.content blockquote { margin: 0.7em 0px; }
+
+div.article div.helper div.content img { max-width: 620px; }
+
+div.article div.founders { position: relative; overflow: hidden; }
+
+div.article div.founders a { display: block; float: left; text-align: center; margin-right: 10px; }
+
+div.article div.founders a p { margin: 0px; }
+
+div.article div.support-footer { display: block; margin: 40px 0px; }
+
+.sidebar { width: 219px; float: left; border-left: 1px solid rgb(238, 238, 238); padding: 5px 0px 15px 15px; }
+
+.sidebar li.muted { color: rgb(102, 102, 102); }
+
+div.native-download { position: relative; overflow: hidden; background-color: rgb(250, 250, 250); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(221, 221, 221); border-image: initial; border-radius: 3px; padding: 10px; margin-top: 20px; }
+
+div.native-download p { position: relative; float: left; margin: 0px; font-weight: bold; }
+
+div.native-download p span { position: relative; vertical-align: middle; height: 32px; line-height: 32px; display: inline-block; }
+
+div.native-download p .mega-icon { color: rgb(102, 102, 102); padding-right: 10px; display: inline-block; height: 32px; line-height: 32px; font-weight: normal; }
+
+div.native-download .button { position: relative; float: right; }
+
+ul.article-footer { text-align: center; }
+
+ul#bootcamp { margin-left: 140px; position: relative; overflow: hidden; }
+
+ul#bootcamp li { display: block; position: relative; float: left; margin-right: 10px; }
+
+ul#bootcamp li:last-child { margin-right: 0px; }
+
+ul#bootcamp li a { position: relative; height: 158px; width: 157px; display: block; text-decoration: none; }
+
+ul#bootcamp li a img { height: 125px; border-style: solid; border-color: rgb(221, 221, 221); border-image: initial; border-width: 1px 1px 0px; display: block; position: relative; bottom: 0px; border-radius: 3px 3px 0px 0px; background-clip: padding-box; }
+
+ul#bootcamp li a h4 { border: 1px solid rgb(187, 205, 215); height: 30px; line-height: 30px; border-radius: 0px 0px 3px 3px; color: rgb(58, 80, 91); font-weight: bold; text-align: center; text-shadow: rgba(255, 255, 255, 0.7) 0px 1px 0px; background: url("/assets/images/site/gradient-sprite.png") 0px 0px repeat-x transparent; }
+
+ul#bootcamp li a:hover h4 { background-position: 0px -30px; }
+
+ul#bootcamp li:last-child a { width: 158px; }
+
+div#common-issues { background-color: rgb(250, 250, 250); border-radius: 3px; margin: 30px 0px; border: 1px solid rgb(221, 221, 221); box-shadow: rgb(221, 221, 221) 0px 1px 0px; }
+
+div#common-issues h3 { margin: 0px; padding: 5px 15px; border-bottom: 1px solid rgb(221, 221, 221); }
+
+div#common-issues ul { background: rgb(255, 255, 255); overflow: hidden; }
+
+div#common-issues ul li { margin: 0px; border-bottom: 1px solid rgb(221, 221, 221); }
+
+div#common-issues ul li a { padding: 5px 15px 5px 25px; background-position: 15px 10px; }
+
+div#common-issues ul li a:hover { background-color: rgb(242, 248, 255); background-position: 17px 10px; }
+
+div#common-issues ul li:last-child { border: none; }
+
+h2.search-title { margin: 30px 0px 0px; text-align: center; font-size: 36px; color: rgb(153, 153, 153); }
+
+ul#categories { position: relative; }
+
+ul#categories li { position: relative; }
+
+ul#categories li h5 { padding-bottom: 5px; margin: 15px 0px 10px; font-size: 15px; font-weight: bold; color: rgb(102, 102, 102); border-bottom: 1px solid rgb(221, 221, 221); }
+
+ul#categories li h5 a { color: rgb(102, 102, 102); }
+
+ul#categories li h5 a:hover { text-decoration: underline; }
+
+ul#categories li.reorder .white-nav { display: block; }
+
+ul#categories li .button-nav { position: absolute; top: -3px; right: 0px; }
+
+ul#categories li .button-nav.persist { display: block; }
+
+ul#categories li ul.disabled-actions { display: none; }
+
+div#current-category-articles ul.chevron { margin-top: 10px; }
+
+.hidden { display: none; }
+
+.search-spinner { line-height: 200px; text-align: center; }
+
+.search-spinner img { vertical-align: middle; }
+
+ul.search-results { margin-top: 20px; border-top: 1px solid rgb(221, 221, 221); }
+
+ul.search-results li { border-bottom: 1px solid rgb(221, 221, 221); padding: 10px 0px; color: rgb(102, 102, 102); }
+
+ul.search-results li span.search-term { font-weight: bold; color: rgb(51, 51, 51); }
+
+ul.search-results li h3 { font-size: 15px; font-weight: bold; }
+
+ul.search-results li h3 a:hover { text-decoration: underline; }
+
+ul.search-results li p { margin: 0.5em 0px; }
+
+ul.search-results li p.category { font-weight: bold; font-size: 13px; }
+
+.content-header .white-button { padding: 0px 8px; border-radius: 3px; background-clip: padding-box; border: 1px solid rgb(221, 221, 221); background-color: transparent; color: rgb(153, 153, 153); text-align: center; font-size: 12px; font-weight: bold; line-height: 20px; text-decoration: none; }
+
+.content-header .white-button:hover { background-color: rgb(65, 131, 196); color: rgb(255, 255, 255); }
+
+.content-header .silver-button { background: url("/assets/images/site/gradient-sprite.png") 0px -95px repeat-x padding-box transparent; position: relative; float: left; display: block; height: 24px; margin: 0px; padding: 0px 8px; border: 1px solid rgb(221, 221, 221); border-radius: 0px 3px 3px 0px; color: rgb(102, 102, 102); font-size: 12px; font-weight: bold; line-height: 24px; box-sizing: content-box; }
+
+.content-header .silver-button:hover { background-position: 0px -129px; }
+
+input.classy, button.classy, input.classy:disabled, input.classy.disabled, button.classy:disabled, button.classy.disabled, a.button.classy:disabled, a.button.classy.disabled, button.classy:disabled:hover, button.classy.disabled:disabled:hover, a.button.classy.disabled:hover:disabled, a.button.classy.disabled:hover, a.button.classy, button.classy:disabled:hover, input.classy:disabled:hover, a.button.classy:disabled:hover, a.button.classy.disabled:hover { display: inline-block; padding: 8px 15px; line-height: normal; position: relative; font-family: helvetica, arial, freesans, clean, sans-serif; font-size: 12px; font-weight: bold; color: rgb(102, 102, 102); text-shadow: rgba(255, 255, 255, 0.9) 0px 1px; background: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(229, 229, 229)); border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(221, 221, 221) rgb(187, 187, 187); border-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px; cursor: pointer; user-select: none; }
+
+input.classy.primary, button.classy.primary, input.primary.classy:disabled, input.primary.classy.disabled, a.primary.button.classy:disabled, a.primary.button.classy.disabled, button.primary.classy:disabled:hover, a.primary.button.classy.disabled:hover, a.button.classy.primary, button.classy:disabled:hover.primary, input.classy:disabled:hover.primary, a.button.classy:disabled:hover.primary, a.button.classy.disabled:hover.primary { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0px; border-color: rgb(116, 187, 90) rgb(116, 187, 90) rgb(80, 147, 56); background: -webkit-linear-gradient(top, rgb(138, 221, 109), rgb(96, 176, 68)); box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px; }
+
+input.classy.primary:hover, button.classy.primary:hover, input.primary.classy:hover:disabled, input.primary.classy.disabled:hover, a.primary.button.classy:hover:disabled, a.primary.button.classy.disabled:hover, button.primary.classy.disabled:hover:disabled, a.button.classy.primary:hover, button.classy:disabled:hover.primary:hover, input.classy:disabled:hover.primary:hover, a.button.classy:disabled:hover.primary:hover, a.button.classy.disabled:hover.primary:hover { background: -webkit-linear-gradient(top, rgb(105, 211, 68), rgb(76, 139, 54)); border-color: rgb(74, 153, 62); color: rgb(255, 255, 255); }
+
+input.classy.orange, button.classy.orange, input.orange.classy:disabled, input.orange.classy.disabled, a.orange.button.classy:disabled, a.orange.button.classy.disabled, button.orange.classy:disabled:hover, a.orange.button.classy.disabled:hover, a.button.classy.orange, button.classy:disabled:hover.orange, input.classy:disabled:hover.orange, a.button.classy:disabled:hover.orange, a.button.classy.disabled:hover.orange { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0px; border-color: rgb(225, 65, 0); background: -webkit-linear-gradient(top, rgb(242, 120, 9), rgb(225, 65, 0)); box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px; }
+
+input.classy.orange:hover, button.classy.orange:hover, input.orange.classy:hover:disabled, input.orange.classy.disabled:hover, a.orange.button.classy:hover:disabled, a.orange.button.classy.disabled:hover, button.orange.classy.disabled:hover:disabled, a.button.classy.orange:hover, button.classy:disabled:hover.orange:hover, input.classy:disabled:hover.orange:hover, a.button.classy:disabled:hover.orange:hover, a.button.classy.disabled:hover.orange:hover { background: -webkit-linear-gradient(top, rgb(227, 113, 8), rgb(210, 61, 0)); border-color: rgb(210, 61, 0); color: rgb(255, 255, 255); }
+
+input.classy.danger, button.classy.danger, input.danger.classy:disabled, input.danger.classy.disabled, a.danger.button.classy:disabled, a.danger.button.classy.disabled, button.danger.classy:disabled:hover, a.danger.button.classy.disabled:hover, a.button.classy.danger, button.classy:disabled:hover.danger, input.classy:disabled:hover.danger, a.button.classy:disabled:hover.danger, a.button.classy.disabled:hover.danger { color: rgb(153, 0, 0); }
+
+input.classy.danger:hover, button.classy.danger:hover, input.danger.classy:hover:disabled, input.danger.classy.disabled:hover, a.danger.button.classy:hover:disabled, a.danger.button.classy.disabled:hover, button.danger.classy.disabled:hover:disabled, a.button.classy.danger:hover, button.classy:disabled:hover.danger:hover, input.classy:disabled:hover.danger:hover, a.button.classy:disabled:hover.danger:hover, a.button.classy.disabled:hover.danger:hover { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-bottom-color: rgb(205, 80, 74); background: -webkit-linear-gradient(top, rgb(220, 95, 89), rgb(179, 54, 48)); }
+
+input.classy.danger:disabled, input.classy.danger.disabled, button.classy.danger:disabled, input.danger.classy:disabled, a.danger.button.classy:disabled, button.danger.classy:disabled:hover, a.danger.button.classy.disabled:disabled:hover, button.classy.danger.disabled, input.danger.disabled.classy, a.danger.disabled.button.classy, button.danger.disabled.classy:disabled:hover, a.danger.disabled.button.classy:hover, a.button.classy.danger:disabled, a.button.classy.danger.disabled, button.classy:disabled:hover.danger:disabled, input.classy:disabled:hover.danger:disabled, a.button.classy:disabled:hover.danger:disabled, button.classy:disabled:hover.danger.disabled, input.classy:disabled:hover.danger.disabled, a.button.classy:disabled:hover.danger.disabled, a.button.classy.disabled:hover.danger:disabled, a.button.classy.disabled:hover.danger.disabled { color: rgb(153, 0, 0); text-shadow: rgb(255, 255, 255) 0px 1px 0px; border-bottom: 1px solid rgb(235, 235, 235); background: -webkit-linear-gradient(top, rgb(255, 255, 255), rgb(225, 225, 225)); }
+
+input.classy.danger.mousedown, button.classy.danger.mousedown, input.classy.danger.primary.mousedown, a.classy.danger.button.primary.mousedown, input.danger.primary.mousedown.classy:disabled:hover, input.classy.danger.orange.mousedown, a.classy.danger.button.orange.mousedown, input.danger.orange.mousedown.classy:disabled:hover, input.danger.mousedown.classy:disabled, input.danger.mousedown.classy.disabled, a.danger.mousedown.button.classy:disabled, a.danger.mousedown.button.classy.disabled, button.danger.mousedown.classy:disabled:hover, a.button.classy.danger.mousedown, button.classy:disabled:hover.danger.mousedown, input.classy:disabled:hover.danger.mousedown, a.button.classy:disabled:hover.danger.mousedown, a.button.classy.disabled:hover.danger.mousedown { border-bottom-color: rgb(220, 95, 89); background: -webkit-linear-gradient(top, rgb(179, 54, 48), rgb(220, 95, 89)); }
+
+input.classy:hover, button.classy:hover, input.classy:hover:disabled, input.classy.disabled:hover, a.button.classy:hover:disabled, a.button.classy.disabled:hover, button.classy.disabled:hover:disabled, a.button.classy.disabled:hover:disabled, a.button.classy:hover, button.classy:disabled:hover:hover, input.classy:disabled:hover:hover, a.button.classy:disabled:hover:hover, a.button.classy.disabled:hover:hover { color: rgb(51, 119, 151); text-decoration: none; background: -webkit-linear-gradient(top, rgb(240, 247, 250), rgb(216, 234, 242)); border-color: rgb(203, 227, 238) rgb(203, 227, 238) rgb(151, 199, 221); }
+
+input.classy:disabled, input.classy.disabled, button.classy:disabled, input.classy:disabled, a.button.classy:disabled, button.classy:disabled:hover, button.classy.disabled:disabled:hover, a.button.classy.disabled:disabled:hover, button.classy.disabled, input.disabled.classy, a.disabled.button.classy, button.disabled.classy:disabled:hover, a.disabled.button.classy:hover:disabled, a.disabled.button.classy:hover, a.button.classy:disabled, a.button.classy.disabled, button.classy:disabled:hover:disabled, input.classy:disabled:hover:disabled, a.button.classy:disabled:hover:disabled, button.classy:disabled:hover.disabled, input.classy:disabled:hover.disabled, a.button.classy:disabled:hover.disabled, a.button.classy.disabled:hover:disabled, a.button.classy.disabled:hover.disabled { opacity: 0.5; }
+
+input.classy.mousedown, button.classy.mousedown, input.classy.primary.mousedown, button.classy.primary.mousedown, a.classy.button.primary.mousedown, input.primary.mousedown.classy:disabled:hover, a.primary.mousedown.button.classy:disabled:hover, a.classy.button.disabled.primary.mousedown:hover, input.classy.orange.mousedown, button.classy.orange.mousedown, a.classy.button.orange.mousedown, input.orange.mousedown.classy:disabled:hover, a.orange.mousedown.button.classy:disabled:hover, a.classy.button.disabled.orange.mousedown:hover, input.mousedown.classy:disabled, input.mousedown.classy.disabled, a.mousedown.button.classy:disabled, a.mousedown.button.classy.disabled, button.mousedown.classy:disabled:hover, a.mousedown.button.classy.disabled:hover, a.button.classy.mousedown, button.classy:disabled:hover.mousedown, input.classy:disabled:hover.mousedown, a.button.classy:disabled:hover.mousedown, a.button.classy.disabled:hover.mousedown { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-color: rgb(42, 101, 160) rgb(42, 101, 160) rgb(7, 112, 160); background: -webkit-linear-gradient(top, rgb(7, 112, 160), rgb(12, 166, 221)); }
+
+a.button.classy { display: inline-block; }
+
+button.classy img, input.classy:disabled img, input.classy.disabled img, button.classy:disabled img, button.classy.disabled img, a.button.classy:disabled img, a.button.classy.disabled img, button.classy:disabled:hover img, button.classy.disabled:disabled:hover img, a.button.classy.disabled:hover:disabled img, a.button.classy.disabled:hover img, a.button.classy img { position: relative; top: -1px; margin-right: 3px; vertical-align: middle; }
+
+.minibutton { position: relative; display: inline-block; padding: 0px 10px; color: rgb(51, 51, 51); font-family: helvetica, arial, freesans, clean, sans-serif; font-size: 13px; font-weight: bold; line-height: 24px; text-shadow: rgb(255, 255, 255) 0px 1px 0px; white-space: nowrap; border-width: 1px; border-style: solid; border-color: rgb(212, 212, 212) rgb(212, 212, 212) rgb(188, 188, 188); border-image: initial; border-radius: 3px; background: -webkit-linear-gradient(top, rgb(250, 250, 250), rgb(234, 234, 234)); cursor: pointer; user-select: none; }
+
+.minibutton i { font-weight: 500; font-style: normal; opacity: 0.6; }
+
+.minibutton.danger { color: rgb(153, 0, 0); }
+
+.minibutton.danger:hover { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-color: rgb(212, 212, 212); background: -webkit-linear-gradient(top, rgb(220, 95, 89), rgb(179, 54, 48)); }
+
+.minibutton.danger.mousedown { border-color: rgb(160, 48, 42) rgb(160, 48, 42) rgb(198, 86, 81); background: -webkit-linear-gradient(top, rgb(179, 54, 48), rgb(220, 95, 89)); }
+
+.minibutton.green { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; background: -webkit-linear-gradient(top, rgb(54, 184, 37), rgb(40, 136, 27)); border-color: rgb(74, 153, 62); }
+
+.minibutton.blue { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-color: rgb(39, 86, 102); background: -webkit-linear-gradient(top, rgb(68, 141, 166), rgb(50, 104, 123)); }
+
+.minibutton.mousedown { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-color: rgb(42, 101, 160) rgb(42, 101, 160) rgb(81, 140, 198); background: -webkit-linear-gradient(top, rgb(48, 114, 179), rgb(89, 155, 220)); }
+
+.minibutton.selected { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.5) 0px -1px 0px; border-color: rgb(104, 104, 104); background: -webkit-linear-gradient(top, rgb(118, 118, 118), rgb(158, 158, 158)); }
+
+.minibutton:hover { color: rgb(255, 255, 255); text-decoration: none; text-shadow: rgba(0, 0, 0, 0.3) 0px -1px 0px; border-color: rgb(81, 140, 198) rgb(81, 140, 198) rgb(42, 101, 160); background: -webkit-linear-gradient(top, rgb(89, 155, 220), rgb(48, 114, 179)); }
+
+.minibutton:hover.btn-windows .icon { background-position: -17px 3px; }
+
+.minibutton:disabled, .minibutton.disabled { opacity: 0.5; cursor: default; }
+
+.btn { display: inline-block; margin: 0px; padding: 10px 15px; font-weight: bold; line-height: 1; color: rgb(51, 51, 51); text-align: center; text-shadow: rgba(255, 255, 255, 0.75) 0px 1px 0px; background: -webkit-linear-gradient(top, rgb(255, 255, 255), rgb(238, 238, 238)) repeat-x; border: 1px solid rgb(197, 197, 197); border-radius: 4px; box-shadow: rgba(255, 255, 255, 0.25) 0px 1px 1px inset, rgba(0, 0, 0, 0.05) 0px 1px 2px; cursor: pointer; vertical-align: middle; }
+
+.btn:hover { text-decoration: none; }
+
+.btn:active, .btn.active { background-image: none; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px inset, rgba(0, 0, 0, 0.05) 0px 1px 2px; }
+
+.btn.btn-primary { color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 0px; background: -webkit-linear-gradient(top, rgb(69, 179, 243), rgb(29, 106, 200)); border-color: rgb(29, 106, 200) rgb(29, 106, 200) rgb(26, 94, 178); }
+
+.btn.btn-primary:active { border-color: rgb(23, 82, 155); }
+
+input, textarea { position: relative; padding: 0px 5px; margin: 0px; border: 1px solid rgb(221, 221, 221); border-radius: 3px; background-clip: padding-box; outline: none; color: rgb(51, 51, 51); font-size: 13px; line-height: 24px; }
+
+input.one-line, textarea.one-line { height: 24px; }
+
+input:focus, textarea:focus { border-color: rgb(168, 212, 255); color: rgb(51, 51, 51); }
+
+label { display: block; font-size: 15px; font-weight: bold; color: rgb(102, 102, 102); margin: 10px 0px 5px; }
+
+select { width: 328px; }
+
+select.callout { height: 26px; width: 80px; margin-left: 5px; }
+
+.version-picker select { width: 150px; }
+
+.version-picker { position: absolute; left: 680px; }
+
+.btn-text-field { display: table; margin-top: 10px; width: 100%; }
+
+.btn-text-field .input, .btn-text-field .btn { height: 24px; font-size: 13px; line-height: 25px; vertical-align: middle; border: solid rgb(221, 221, 221); display: table-cell; cursor: pointer; }
+
+.btn-text-field .input { border-width: 1px 0px 1px 1px; border-radius: 3px 0px 0px 3px; background-clip: padding-box; color: rgb(153, 153, 153); padding: 0px 5px; outline: none; margin: 0px; }
+
+.btn-text-field .btn { background: url("/assets/images/site/gradient-sprite.png") 0px -95px repeat-x padding-box transparent; border-radius: 0px 3px 3px 0px; border-width: 1px; padding: 0px 5px; margin: 0px; box-sizing: content-box; font-weight: bold; color: rgb(102, 102, 102); }
+
+.btn-text-field .btn:hover { background-position: 0px -129px; }
+
+#save-actions { display: block; overflow: hidden; margin-top: 20px; }
+
+#save-actions ul { float: right; }
+
+#save-actions li { float: right; margin-left: 24px; }
+
+#save-actions label { float: right; margin-top: 3px; }
+
+#save-actions input[type="checkbox"] { float: right; margin-top: 8px; margin-right: 8px; }
+
+form#contact #contact_comments, form#contact #contact_subject { width: 648px; max-width: 648px; }
+
+form#contact #contact_name { margin-right: 20px; }
+
+form#contact textarea { height: 400px; }
+
+form#contact dl.form { clear: both; float: left; }
+
+form#contact dl.form.two-col { clear: none; float: left; }
+
+form#contact dl.form.two-col input { width: 308px; }
+
+form#contact .primary { margin-top: 20px; }
+
+form#new_category { padding-bottom: 10px; margin: 15px 0px 0px; border-bottom: 1px solid rgb(221, 221, 221); }
+
+form#new_category .input { font: bold 15px helvetica, arial, freesans, clean, sans-serif; -webkit-font-smoothing: antialiased; color: rgb(102, 102, 102); border: 0px; padding: 0px; }
+
+form#new_category .btn { float: right; margin-top: -5px; }
+
+div#article-form-container .errors { padding: 10px; border: 2px solid rgb(214, 51, 1); background-color: rgb(255, 204, 186); color: rgb(214, 51, 1); }
+
+div#article-form-container .field { display: block; margin-bottom: 20px; }
+
+div#article-form-container .two-column { float: left; }
+
+div#article-form-container .one-column { clear: both; }
+
+div#article-form-container #bookmarklet, div#article-form-container #audience { margin-left: 20px; }
+
+div#article-form-container #audience select { width: 220px; }
+
+div#article-form-container .text-field { width: 648px; display: block; font-family: Monaco, "DejaVu Sans Mono", "Courier New", monospace; }
+
+div#article-form-container .text-field:disabled { background-color: rgb(238, 238, 238); color: rgb(170, 170, 170); }
+
+div#article-form-container .preview { border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); margin-bottom: 5px; }
+
+div#article-form-container .write { margin-bottom: 5px; }
+
+.edit_category a.button { margin-left: 10px; }
+
+div.article-form-action-bar { font-size: 12px; font-weight: bold; height: 30px; }
+
+div.article-form-action-bar h4 { position: relative; float: left; font-weight: bold; color: rgb(153, 153, 153); height: 20px; line-height: 26px; }
+
+div.article-form-action-bar ul { position: relative; float: left; }
+
+div.article-form-action-bar ul li { position: relative; float: left; }
+
+div.article-form-action-bar .custom-markup-injectors { float: right; }
+
+div.article-form-action-bar .custom-markup-injectors ul li a { display: block; margin-left: 5px; padding: 0px 10px; border-radius: 3px; background-clip: padding-box; border: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249); background-image: -webkit-linear-gradient(top, rgb(249, 249, 249), rgb(229, 229, 229)); line-height: 24px; color: rgb(153, 153, 153); text-shadow: rgb(255, 255, 255) 0px 1px 0px; }
+
+div.article-form-action-bar .custom-markup-injectors ul li a:hover { background-color: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(238, 238, 238), rgb(222, 222, 222)); color: rgb(102, 102, 102); }
+
+.preview-tabs { font-size: 12px; font-weight: bold; }
+
+.preview-tabs li { display: inline-block; }
+
+.preview-tabs a { margin-left: 0px; margin-right: 10px; padding-bottom: 5px; line-height: 21px; }
+
+.preview-tabs a.selected { color: rgb(102, 102, 102); cursor: default; background: url("/assets/images/site/under-triangle.gif") center bottom no-repeat transparent; }
+
+div.search-form.small input, div.search-form.small button { height: 24px; font-size: 13px; }
+
+div.search-form.small input { width: 196px; }
+
+div.search-form.small button { background: url("/assets/images/site/gradient-sprite.png") 0px -95px repeat-x transparent; width: 27px; }
+
+div.search-form.small button span { top: 4px; }
+
+div.search-form.small button:hover { background-position: 0px -129px; }
+
+div.search-form.big { margin-top: 10px; padding: 0px; }
+
+div.search-form.big .inner { margin-left: 140px; }
+
+div.search-form.big input, div.search-form.big button { height: 30px; font-size: 16px; }
+
+div.search-form.big input { width: 611px; }
+
+div.search-form.big button { background: url("/assets/images/site/gradient-sprite.png") 0px -92px repeat-x transparent; width: 35px; }
+
+div.search-form.big button span { font-size: 16px; top: 7px; }
+
+div.search-form.big button:hover { background-position: 0px -126px; }
+
+div.search-form.big .autocomplete-results { width: 650px; }
+
+div.search-form .outer, div.search-form .inner { position: relative; }
+
+div.search-form .inner { display: table; }
+
+div.search-form h2 { text-align: center; margin: 0px 0px 10px; }
+
+div.search-form input, div.search-form button { display: table-cell; position: relative; border: solid rgb(221, 221, 221); margin: 0px; vertical-align: middle; box-sizing: content-box; }
+
+div.search-form input { border-width: 1px 0px 1px 1px; border-radius: 3px 0px 0px 3px; background-clip: padding-box; color: rgb(153, 153, 153); padding: 0px 5px; outline: none; }
+
+div.search-form input:focus { border-color: rgb(168, 212, 255); color: rgb(51, 51, 51); }
+
+div.search-form button { border-radius: 0px 3px 3px 0px; background-clip: padding-box; border-width: 1px; padding: 0px; margin: 0px; box-sizing: content-box; position: relative; text-indent: -9000px; }
+
+div.search-form button span { position: absolute; left: 50%; margin-left: -7px; display: block; padding: 0px; text-indent: 0px; cursor: pointer; width: 16px; height: 16px; color: rgb(51, 51, 51); }
+
+div.search-form .autocomplete-results { position: absolute; margin-top: 5px; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 5px; clear: both; z-index: 2; border-radius: 3px; background-clip: padding-box; }
+
+div.search-form .autocomplete-results .header a { border-radius: 3px 3px 0px 0px; background-clip: padding-box; border-width: 1px; font-size: 12px; color: rgb(102, 102, 102); }
+
+div.search-form .autocomplete-results .header:last-child a { border-radius: 3px; background-clip: padding-box; }
+
+div.search-form .autocomplete-results table { width: 100%; }
+
+div.search-form .autocomplete-results table tr:last-child a { border-radius: 0px 0px 3px 3px; background-clip: padding-box; }
+
+div.search-form .autocomplete-results a { outline: none; padding: 5px 10px; display: block; color: rgb(51, 51, 51); font-weight: bold; cursor: pointer; text-decoration: none; border-style: solid; border-color: rgb(221, 221, 221); border-image: initial; border-width: 0px 1px 1px; background-color: rgb(255, 255, 255); }
+
+div.search-form .autocomplete-results a:hover { background-color: rgb(53, 134, 195); color: rgb(255, 255, 255); }
+
+div.search-form .autocomplete-results a.selected { background-color: rgb(53, 134, 195); color: rgb(255, 255, 255); }
+
+.markdown-format h1 .octicon-link, .markdown-format h2 .octicon-link, .markdown-format h3 .octicon-link, .markdown-format h4 .octicon-link, .markdown-format h5 .octicon-link, .markdown-format h6 .octicon-link { display: none; color: rgb(0, 0, 0); }
+
+.markdown-format h1 a.anchor:focus, .markdown-format h2 a.anchor:focus, .markdown-format h3 a.anchor:focus, .markdown-format h4 a.anchor:focus, .markdown-format h5 a.anchor:focus, .markdown-format h6 a.anchor:focus { outline: none; }
+
+.markdown-format h1:hover a.anchor, .markdown-format h2:hover a.anchor, .markdown-format h3:hover a.anchor, .markdown-format h4:hover a.anchor, .markdown-format h5:hover a.anchor, .markdown-format h6:hover a.anchor { text-decoration: none; line-height: 1; padding-left: 0px; top: 15%; }
+
+.markdown-format h1:hover a.anchor .octicon-link, .markdown-format h2:hover a.anchor .octicon-link, .markdown-format h3:hover a.anchor .octicon-link, .markdown-format h4:hover a.anchor .octicon-link, .markdown-format h5:hover a.anchor .octicon-link, .markdown-format h6:hover a.anchor .octicon-link { display: inline-block; margin-left: -16px; }
+
+.markdown-format h4.header a.anchor .octicon-link { display: none; }
+
+.markdown-format h1 { font-size: 36px; font-weight: 300; color: rgb(51, 51, 51); margin-top: 20px; }
+
+.markdown-format h2 { font-size: 36px; font-weight: 300; color: rgb(102, 102, 102); margin-top: 20px; }
+
+.markdown-format > h1:first-child, .markdown-format > h2 { margin-top: 0px; }
+
+.markdown-format h3 { color: rgb(50, 93, 114); font-weight: bold; font-size: 24px; margin: 1.5em 0px 1em; border-bottom: 1px solid rgb(221, 221, 221); }
+
+.markdown-format h4 { color: rgb(51, 51, 51); font-weight: bold; font-size: 1.2em; margin: 1em 0px; }
+
+.markdown-format h5 { color: rgb(50, 93, 114); font-weight: bold; font-size: 1em; margin: 1em 0px; }
+
+.markdown-format h6 { color: rgb(102, 102, 102); font-weight: 300; font-size: 1em; margin: 1em 0px; }
+
+.markdown-format p { margin: 1em 0px; }
+
+.markdown-format ul { padding-left: 0.7em; padding-bottom: 10px; margin: 1em 0px; }
+
+.markdown-format ul li { background: url("/assets/images/site/li-chevron.png") 0px 0.4em no-repeat transparent; padding-left: 0.7em; margin: 5px 0px; }
+
+.markdown-format ol { counter-reset: li 0; list-style: none; position: relative; padding-bottom: 10px; }
+
+.markdown-format ol > li { padding: 5px 0px 5px 55px; position: relative; margin-bottom: 5px; }
+
+.markdown-format ol > li::before { content: counter(li); counter-increment: li 1; position: absolute; top: 0px; left: 0px; height: 100%; width: 30px; padding: 0px 10px 0px 0px; color: rgb(153, 153, 153); font-size: 22px; font-weight: bold; line-height: 35px; text-align: right; border-right: 1px solid rgb(221, 221, 221); }
+
+.markdown-format ol > li > p:first-child { margin-top: 0px; }
+
+.markdown-format ol > li::after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0px; }
+
+.markdown-format ol > li img { max-width: 100px; margin: 0px 0px 0px 10px; float: right; border: 1px solid rgb(221, 221, 221); cursor: pointer; }
+
+.markdown-format ol > li img.expanded { max-width: 400px; }
+
+.markdown-format a { color: rgb(65, 131, 196); text-decoration: none; }
+
+.markdown-format a:hover { text-decoration: underline; }
+
+.markdown-format a code { border-color: rgb(65, 131, 196); }
+
+.markdown-format strong { font-weight: bold; }
+
+.markdown-format img { padding: 1px; background: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); max-width: 660px; }
+
+.markdown-format hr { margin: 1.5em 0px; }
+
+.markdown-format blockquote { color: rgb(102, 102, 102); background: url("/assets/images/site/blockquote-arrow.png") 0px 2px no-repeat transparent; padding-left: 15px; margin: 1em 0px; }
+
+.markdown-format blockquote strong { color: rgb(102, 102, 102); }
+
+.markdown-format table { width: 100%; border-collapse: collapse; border-style: solid; border-color: rgb(221, 221, 221); border-image: initial; border-width: 1px 1px 2px; margin: 1em 0px; border-radius: 3px; background-clip: padding-box; }
+
+.markdown-format table th, .markdown-format table td { border: 1px solid rgb(221, 221, 221); padding: 10px; vertical-align: top; }
+
+.markdown-format table th > :first-child, .markdown-format table td > :first-child { margin-top: 0px; }
+
+.markdown-format table th > :first-child, .markdown-format table td > :first-child { margin-bottom: 0px; }
+
+.markdown-format table th { font-weight: bold; color: rgb(50, 93, 114); background-color: rgb(238, 238, 238); }
+
+.markdown-format dl { margin: 1em 0px; }
+
+.markdown-format dl dt { font-weight: bold; }
+
+.markdown-format dl dd { padding: 0px 0px 0.1em 20px; }
+
+.markdown-format dl dd .alert { margin-bottom: 10px; }
+
+.markdown-format .intro { color: rgb(102, 102, 102); }
+
+.markdown-format .alert { position: relative; margin: 0px auto; padding: 15px; font-size: 12px; color: rgb(38, 76, 114); border: 1px solid rgb(151, 193, 218); border-radius: 3px; background: -webkit-linear-gradient(top, rgb(216, 235, 248), rgb(208, 227, 239)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px; text-shadow: rgba(255, 255, 255, 0.8) 0px 1px 0px; }
+
+.markdown-format .alert + .alert { margin-top: 5px; }
+
+.markdown-format .alert > :first-child { margin-top: 0px; }
+
+.markdown-format .alert > :last-child { margin-bottom: 0px; }
+
+.markdown-format .alert.warning { color: rgb(97, 58, 0); background: -webkit-linear-gradient(top, rgb(255, 227, 200), rgb(245, 218, 192)); border: 1px solid rgb(220, 168, 116); }
+
+.markdown-format .alert.error { color: rgb(156, 36, 0); background: -webkit-linear-gradient(top, rgb(248, 216, 216), rgb(239, 208, 208)); border: 1px solid rgb(218, 151, 151); }
+
+.markdown-format .alert code { font-size: 12px; }
+
+.markdown-format code { padding: 0px 5px 2px; border: 1px solid rgb(221, 221, 221); border-radius: 3px; background-clip: padding-box; font-family: Monaco, "DejaVu Sans Mono", "Courier New", monospace; font-size: 13px; color: rgb(102, 102, 102); }
+
+.markdown-format pre { padding: 8px 10px; margin: 10px 0px; border-width: 1px 1px 2px; border-style: solid; border-color: rgb(221, 221, 221); border-image: initial; border-radius: 3px; background-clip: padding-box; font-family: Monaco, "DejaVu Sans Mono", "Courier New", monospace; font-size: 13px; color: rgb(102, 102, 102); -webkit-font-smoothing: inherit; overflow: auto; }
+
+.markdown-format pre code { padding: 0px; border: none; }
+
+.markdown-format pre span { white-space: pre-wrap; }
+
+.markdown-format pre span.tooltip { position: relative; display: inline-block; width: 100%; }
+
+.markdown-format pre span.tooltip span { display: block; color: rgb(153, 153, 153); }
+
+.markdown-format pre span.tooltip:hover { background: padding-box rgb(238, 238, 238); padding: 0px 2px; margin-left: -2px; border-radius: 3px; }
+
+.markdown-format pre.command-line { border: 2px solid rgb(221, 221, 221); background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 10px; -webkit-font-smoothing: auto; }
+
+.markdown-format pre.command-line em { color: rgb(249, 254, 100); font-style: italic; }
+
+.markdown-format pre.command-line .command::before { content: "$ "; }
+
+.markdown-format pre.command-line .comment { color: rgb(204, 204, 204); }
+
+.markdown-format pre.command-line .output { color: rgb(99, 228, 99); }
+
+.markdown-format pre.command-line .output span { position: fixed; top: -1000px; left: -1000px; }
+
+html { height: 100%; }
+
+body { background-color: rgb(255, 255, 255); position: relative; height: 100%; color: rgb(51, 51, 51); font: 15px / 1.4 helvetica, arial, freesans, clean, sans-serif; -webkit-font-smoothing: antialiased; }
+
+.left { float: left; }
+
+.right { float: right; }
+
+#not-footer { position: relative; margin: 0px 0px -140px; min-height: 100%; }
+
+#content-wrapper { position: relative; padding-top: 30px; }
+
+#content-wrapper .clear { height: 140px; clear: both; }
+
+.site { width: 940px; margin: 0px auto; }
+
+#staging-header { font-size: 12px; line-height: 34px; color: rgba(255, 255, 255, 0.5); background-color: rgb(34, 34, 34); }
+
+#staging-header p { color: white; padding-left: 20px; }
+
+#header { background: -webkit-linear-gradient(top, rgb(250, 250, 250), rgb(234, 234, 234)); position: relative; z-index: 10; border-bottom: 1px solid rgb(202, 202, 202); box-shadow: rgba(255, 255, 255, 0.4) 0px 1px 0px, rgba(0, 0, 0, 0.1) 0px 0px 10px; }
+
+#header div.clearfix { width: 940px; margin: 0px auto; }
+
+#header ul.top-nav { position: relative; float: right; }
+
+#header ul.top-nav .dropdown-button { line-height: 19px; margin-top: -1px; padding: 0px; }
+
+#header ul.top-nav .dropdown-button:hover .dropdown-caret { border-top-color: rgb(65, 131, 196); }
+
+#header ul.top-nav > li { position: relative; float: left; }
+
+#header ul.top-nav > li.separate { border-right: 1px solid rgb(250, 250, 250); box-shadow: rgb(224, 224, 224) 1px 0px 0px; padding-right: 15px; }
+
+#header ul.top-nav > li > a, #header ul.top-nav > li > button { margin-left: 15px; display: block; height: 47px; line-height: 46px; color: rgb(0, 0, 0); font-weight: bold; font-size: 13px; }
+
+#header ul.top-nav > li > a:hover, #header ul.top-nav > li > button:hover { color: rgb(65, 131, 196); }
+
+.page-header { border-bottom: 1px solid rgb(238, 238, 238); margin-bottom: 20px; }
+
+.button-nav { color: rgb(51, 51, 51); }
+
+.button-nav li { display: inline-block; }
+
+.button-nav li a { color: rgb(51, 51, 51); }
+
+.button-nav .mini-icon::before { position: relative; top: 2px; margin-right: 5px; }
+
+.button-nav.search-more-button { padding-top: 10px; }
+
+#footer { position: relative; height: 99px; margin-top: 40px; border-top: 1px solid rgb(221, 221, 221); color: rgb(102, 102, 102); font-size: 13px; overflow: hidden; background: rgb(245, 245, 245); text-shadow: rgb(255, 255, 255) 0px 1px 0px; }
+
+#footer .left { float: left; }
+
+#footer .right { float: right; }
+
+#footer .invertocat { position: absolute; left: 50%; margin-top: -4px; margin-left: -12px; opacity: 0.25; }
+
+#footer .inner { position: relative; display: block; width: 940px; margin: 0px auto; padding: 28px 0px 0px; }
+
+#footer .inner .links a { color: rgb(65, 131, 196); text-decoration: none; }
+
+#footer .inner .links li { display: block; float: left; margin-right: 10px; }
+
+#enterprise-header { background: -webkit-linear-gradient(top, rgb(37, 47, 97), rgb(62, 55, 111)); border-bottom-color: rgb(90, 90, 90); position: relative; z-index: 10; height: 40px; padding-top: 10px; padding-bottom: 10px; }
+
+#enterprise-header div.clearfix { width: 950px; margin: 0px auto; }
+
+#enterprise-header ul.top-nav { position: relative; float: right; margin-top: 4px; }
+
+#enterprise-header ul.top-nav > li { position: relative; float: left; }
+
+#enterprise-header ul.top-nav > li.separate { border-right: 1px solid rgb(250, 250, 250); box-shadow: rgb(224, 224, 224) 1px 0px 0px; padding-right: 15px; }
+
+#enterprise-header ul.top-nav > li > a, #enterprise-header ul.top-nav > li > button { margin-left: 15px; display: block; color: rgb(255, 255, 255); font-weight: bold; font-size: 14px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 6px 5px 7px; }
+
+#enterprise-header ul.top-nav > li > a:hover, #enterprise-header ul.top-nav > li > button:hover { text-decoration: none; text-shadow: rgba(255, 255, 255, 0.75) 0px 0px 10px; }
+
+#enterprise-header ul.top-nav > li a.btn-primary { border-color: rgba(0, 0, 0, 0.8); margin-top: 2px; padding: 6px 15px 7px; }
+
+.enterprise-mode .site { width: 940px; }
+
+.page-header #quicksearch-query { min-width: 350px; width: auto; }
+
+.version-switcher { font-size: 13px; margin: 17px 10px 0px 0px; width: auto; }
+
+.dropdown-caret { display: inline-block; width: 0px; height: 0px; content: ""; vertical-align: -2px; border-color: rgb(51, 51, 51) transparent transparent; border-style: solid; border-width: 4px; }
+
+.enterprise-mode .dropdown-caret { border-top-color: rgb(255, 255, 255); }
+
+.dropdown-menu { background: rgb(255, 255, 255); border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 5px 1px; display: none; left: -42px; min-width: 180px; padding: 5px 0px; position: absolute; top: 40px; z-index: 1001; }
+
+.dropdown-menu::before { border-color: transparent transparent rgb(255, 255, 255); border-style: solid; border-width: 9px; content: " "; left: 50%; margin-left: -9px; position: absolute; top: -18px; }
+
+.dropdown-menu a { display: block; font-size: 13px; padding: 5px 15px; }
+
+.dropdown-menu a:hover { background: rgb(65, 131, 196); color: rgb(255, 255, 255); }
+
+.dropdown-menu-header { border-bottom: 1px solid rgb(238, 238, 238); color: rgb(136, 136, 136); font-size: 12px; font-weight: bold; margin: 3px 0px; padding: 3px 15px; }
+
+.dropdown-button { background: none; border: none; cursor: pointer; line-height: 19px; outline: none; }
+
+.fullscreen-overlay { display: none; height: 100%; left: 0px; position: fixed; top: 0px; width: 100%; z-index: 1; }
+
+div.content-header { position: relative; display: block; height: 39px; border-bottom: 1px solid rgb(221, 221, 221); }
+
+div.content-header h6 { position: absolute; color: rgb(153, 153, 153); font-weight: bold; font-size: 12px; margin: 11px 0px; white-space: nowrap; overflow: hidden; max-width: 690px; top: 0px; }
+
+div.content-header h6 span { color: rgb(51, 51, 51); }
+
+div.content-header h6 a { color: rgb(65, 131, 196); text-decoration: none; }
+
+div.content-header h6 a:hover { text-decoration: underline; }
+
+div.content-header h6.back-button { background: url("/assets/images/site/icon-sprite.png") -4px -2px no-repeat transparent; padding-left: 15px; }
+
+div.content-header .search-form { display: block; width: 236px; padding-left: 10px; }
+
+div.content-header .version-switcher { height: 27px; margin: 6px 0px 0px; }
+
+div.content-header form { margin: 6px 0px; }
+
+div.content-header hr { margin: 0px; }
+
+.site-logo { float: left; margin: 10px 0px; }
+
+.site-logo a { text-indent: -999em; overflow: hidden; float: left; width: 109px; height: 25px; background-image: url("/assets/images/site/logo.png"); }
+
+.enterprise-site-logo { float: left; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .site-logo a { background-size: 109px 25px; background-image: url("/assets/images/site/logo@2x.png"); }
+}
+
+span.last-updated-at { color: rgb(153, 153, 153); font-size: 10px; font-style: italic; margin: 0px 0px 8px; position: relative; top: 20px; }
+
+h1, h2 { font-size: 30px; font-weight: 300; color: rgb(51, 51, 51); margin: 10px 0px; }
+
+h1 span, h2 span { color: rgb(51, 51, 51); }
+
+h1 span.warning, h2 span.warning { color: rgb(208, 104, 6); }
+
+.site > h1:first-child, .site > h2:first-child { margin: 0px; }
+
+h3 { font-size: 18px; font-weight: bold; color: rgb(50, 93, 114); margin: 10px 0px 5px; }
+
+a, a:visited { color: rgb(65, 131, 196); text-decoration: none; }
+
+em { font-style: italic; }
+
+strong { font-weight: bold; }
+
+hr { border-style: solid; border-color: rgb(221, 221, 221); border-image: none 100% / 1 / 0 stretch; border-width: 1px 0px 0px; margin: 10px 0px; clear: both; }
+
+select { color: inherit; font: inherit; margin: 0px; text-transform: none; }
+
+small { font-size: smaller; }
+
+.index-list h3 { font-size: 18px; font-weight: bold; color: rgb(50, 93, 114); margin: 10px 0px; }
+
+.index-list h4 { font-size: 15px; font-weight: bold; color: rgb(102, 102, 102); padding-bottom: 5px; border-bottom: 1px solid rgb(221, 221, 221); margin: 15px 0px 10px; }
+
+.index-list h5 { font-weight: 300; color: rgb(102, 102, 102); }
+
+ul.chevron li { margin-bottom: 5px; }
+
+ul.chevron li a { background: url("/assets/images/site/li-chevron.png") 0px 5px no-repeat transparent; padding-left: 10px; font: 15px / 1.3 helvetica, arial, freesans, clean, sans-serif; display: block; }
+
+ul.chevron li a:hover { background-position: 2px 5px; }
+
+ul li span.auth-message { position: relative; display: inline-block; top: -1px; color: rgb(170, 0, 0); font-size: 13px; font-weight: bold; }
+
+.clearfix::after { content: "."; display: block; height: 0px; clear: both; visibility: hidden; }
+
+* html .clearfix { height: 1%; }
+
+.clearfix { display: inline-block; }
+
+.clearfix { display: block; }
+
+hr.clearfix { clear: both; background: transparent; border: none; }
+
+.guide-section { box-sizing: border-box; float: left; min-height: 205px; padding: 0px 20px; margin: 25px 0px; width: 50%; text-align: center; }
+
+.hero-octicon { width: 75px; height: 75px; border-radius: 75px; text-align: center; border: 1px solid rgb(221, 223, 241); margin: 0px auto; }
+
+.hero-octicon .mega-octicon { color: rgb(168, 168, 219); font-size: 34px; text-shadow: none; line-height: 73px; position: relative; left: 1px; }
+
+.admin-guides { padding: 0px 100px 40px; }
+
+.admin-guides .article { float: none; width: auto; }
+
+.admin-guides .markdown-format ul { padding-left: 0px; }
+
+.admin-guides .markdown-format ul ul { padding: 0px 0px 0px 1em; margin: 0px; }
+
+@font-face { font-family: octicons; font-weight: normal; font-style: normal; }
+
+.octicon, .mega-octicon { font: 16px / 1 octicons; display: inline-block; text-decoration: none; text-rendering: auto; -webkit-font-smoothing: antialiased; user-select: none; }
+
+.mega-octicon { font-size: 32px; }
+
+.octicon-alert::before { content: ""; }
+
+.octicon-alignment-align::before { content: ""; }
+
+.octicon-alignment-aligned-to::before { content: ""; }
+
+.octicon-alignment-unalign::before { content: ""; }
+
+.octicon-arrow-down::before { content: ""; }
+
+.octicon-arrow-left::before { content: ""; }
+
+.octicon-arrow-right::before { content: ""; }
+
+.octicon-arrow-small-down::before { content: ""; }
+
+.octicon-arrow-small-left::before { content: ""; }
+
+.octicon-arrow-small-right::before { content: ""; }
+
+.octicon-arrow-small-up::before { content: ""; }
+
+.octicon-arrow-up::before { content: ""; }
+
+.octicon-beer::before { content: ""; }
+
+.octicon-book::before { content: ""; }
+
+.octicon-bookmark::before { content: ""; }
+
+.octicon-briefcase::before { content: ""; }
+
+.octicon-broadcast::before { content: ""; }
+
+.octicon-browser::before { content: ""; }
+
+.octicon-bug::before { content: ""; }
+
+.octicon-calendar::before { content: ""; }
+
+.octicon-check::before { content: ""; }
+
+.octicon-checklist::before { content: ""; }
+
+.octicon-chevron-down::before { content: ""; }
+
+.octicon-chevron-left::before { content: ""; }
+
+.octicon-chevron-right::before { content: ""; }
+
+.octicon-chevron-up::before { content: ""; }
+
+.octicon-circle-slash::before { content: ""; }
+
+.octicon-circuit-board::before { content: ""; }
+
+.octicon-clippy::before { content: ""; }
+
+.octicon-clock::before { content: ""; }
+
+.octicon-cloud-download::before { content: ""; }
+
+.octicon-cloud-upload::before { content: ""; }
+
+.octicon-code::before { content: ""; }
+
+.octicon-color-mode::before { content: ""; }
+
+.octicon-comment-add::before, .octicon-comment::before { content: ""; }
+
+.octicon-comment-discussion::before { content: ""; }
+
+.octicon-credit-card::before { content: ""; }
+
+.octicon-dash::before { content: ""; }
+
+.octicon-dashboard::before { content: ""; }
+
+.octicon-database::before { content: ""; }
+
+.octicon-device-camera::before { content: ""; }
+
+.octicon-device-camera-video::before { content: ""; }
+
+.octicon-device-desktop::before { content: ""; }
+
+.octicon-device-mobile::before { content: ""; }
+
+.octicon-diff::before { content: ""; }
+
+.octicon-diff-added::before { content: ""; }
+
+.octicon-diff-ignored::before { content: ""; }
+
+.octicon-diff-modified::before { content: ""; }
+
+.octicon-diff-removed::before { content: ""; }
+
+.octicon-diff-renamed::before { content: ""; }
+
+.octicon-ellipsis::before { content: ""; }
+
+.octicon-eye-unwatch::before, .octicon-eye-watch::before, .octicon-eye::before { content: ""; }
+
+.octicon-file-binary::before { content: ""; }
+
+.octicon-file-code::before { content: ""; }
+
+.octicon-file-directory::before { content: ""; }
+
+.octicon-file-media::before { content: ""; }
+
+.octicon-file-pdf::before { content: ""; }
+
+.octicon-file-submodule::before { content: ""; }
+
+.octicon-file-symlink-directory::before { content: ""; }
+
+.octicon-file-symlink-file::before { content: ""; }
+
+.octicon-file-text::before { content: ""; }
+
+.octicon-file-zip::before { content: ""; }
+
+.octicon-flame::before { content: ""; }
+
+.octicon-fold::before { content: ""; }
+
+.octicon-gear::before { content: ""; }
+
+.octicon-gift::before { content: ""; }
+
+.octicon-gist::before { content: ""; }
+
+.octicon-gist-secret::before { content: ""; }
+
+.octicon-git-branch-create::before, .octicon-git-branch-delete::before, .octicon-git-branch::before { content: ""; }
+
+.octicon-git-commit::before { content: ""; }
+
+.octicon-git-compare::before { content: ""; }
+
+.octicon-git-merge::before { content: ""; }
+
+.octicon-git-pull-request-abandoned::before, .octicon-git-pull-request::before { content: ""; }
+
+.octicon-globe::before { content: ""; }
+
+.octicon-graph::before { content: ""; }
+
+.octicon-heart::before { content: "♥"; }
+
+.octicon-history::before { content: ""; }
+
+.octicon-home::before { content: ""; }
+
+.octicon-horizontal-rule::before { content: ""; }
+
+.octicon-hourglass::before { content: ""; }
+
+.octicon-hubot::before { content: ""; }
+
+.octicon-inbox::before { content: ""; }
+
+.octicon-info::before { content: ""; }
+
+.octicon-issue-closed::before { content: ""; }
+
+.octicon-issue-opened::before { content: ""; }
+
+.octicon-issue-reopened::before { content: ""; }
+
+.octicon-jersey::before { content: ""; }
+
+.octicon-jump-down::before { content: ""; }
+
+.octicon-jump-left::before { content: ""; }
+
+.octicon-jump-right::before { content: ""; }
+
+.octicon-jump-up::before { content: ""; }
+
+.octicon-key::before { content: ""; }
+
+.octicon-keyboard::before { content: ""; }
+
+.octicon-law::before { content: ""; }
+
+.octicon-light-bulb::before { content: ""; }
+
+.octicon-link::before { content: ""; }
+
+.octicon-link-external::before { content: ""; }
+
+.octicon-list-ordered::before { content: ""; }
+
+.octicon-list-unordered::before { content: ""; }
+
+.octicon-location::before { content: ""; }
+
+.octicon-gist-private::before, .octicon-mirror-private::before, .octicon-git-fork-private::before, .octicon-lock::before { content: ""; }
+
+.octicon-logo-github::before { content: ""; }
+
+.octicon-mail::before { content: ""; }
+
+.octicon-mail-read::before { content: ""; }
+
+.octicon-mail-reply::before { content: ""; }
+
+.octicon-mark-github::before { content: ""; }
+
+.octicon-markdown::before { content: ""; }
+
+.octicon-megaphone::before { content: ""; }
+
+.octicon-mention::before { content: ""; }
+
+.octicon-microscope::before { content: ""; }
+
+.octicon-milestone::before { content: ""; }
+
+.octicon-mirror-public::before, .octicon-mirror::before { content: ""; }
+
+.octicon-mortar-board::before { content: ""; }
+
+.octicon-move-down::before { content: ""; }
+
+.octicon-move-left::before { content: ""; }
+
+.octicon-move-right::before { content: ""; }
+
+.octicon-move-up::before { content: ""; }
+
+.octicon-mute::before { content: ""; }
+
+.octicon-no-newline::before { content: ""; }
+
+.octicon-octoface::before { content: ""; }
+
+.octicon-organization::before { content: ""; }
+
+.octicon-package::before { content: ""; }
+
+.octicon-paintcan::before { content: ""; }
+
+.octicon-pencil::before { content: ""; }
+
+.octicon-person-add::before, .octicon-person-follow::before, .octicon-person::before { content: ""; }
+
+.octicon-pin::before { content: ""; }
+
+.octicon-playback-fast-forward::before { content: ""; }
+
+.octicon-playback-pause::before { content: ""; }
+
+.octicon-playback-play::before { content: ""; }
+
+.octicon-playback-rewind::before { content: ""; }
+
+.octicon-plug::before { content: ""; }
+
+.octicon-repo-create::before, .octicon-gist-new::before, .octicon-file-directory-create::before, .octicon-file-add::before, .octicon-plus::before { content: ""; }
+
+.octicon-podium::before { content: ""; }
+
+.octicon-primitive-dot::before { content: ""; }
+
+.octicon-primitive-square::before { content: ""; }
+
+.octicon-pulse::before { content: ""; }
+
+.octicon-puzzle::before { content: ""; }
+
+.octicon-question::before { content: ""; }
+
+.octicon-quote::before { content: ""; }
+
+.octicon-radio-tower::before { content: ""; }
+
+.octicon-repo-delete::before, .octicon-repo::before { content: ""; }
+
+.octicon-repo-clone::before { content: ""; }
+
+.octicon-repo-force-push::before { content: ""; }
+
+.octicon-gist-fork::before, .octicon-repo-forked::before { content: ""; }
+
+.octicon-repo-pull::before { content: ""; }
+
+.octicon-repo-push::before { content: ""; }
+
+.octicon-rocket::before { content: ""; }
+
+.octicon-rss::before { content: ""; }
+
+.octicon-ruby::before { content: ""; }
+
+.octicon-screen-full::before { content: ""; }
+
+.octicon-screen-normal::before { content: ""; }
+
+.octicon-search-save::before, .octicon-search::before { content: ""; }
+
+.octicon-server::before { content: ""; }
+
+.octicon-settings::before { content: ""; }
+
+.octicon-log-in::before, .octicon-sign-in::before { content: ""; }
+
+.octicon-log-out::before, .octicon-sign-out::before { content: ""; }
+
+.octicon-split::before { content: ""; }
+
+.octicon-squirrel::before { content: ""; }
+
+.octicon-star-add::before, .octicon-star-delete::before, .octicon-star::before { content: ""; }
+
+.octicon-steps::before { content: ""; }
+
+.octicon-stop::before { content: ""; }
+
+.octicon-repo-sync::before, .octicon-sync::before { content: ""; }
+
+.octicon-tag-remove::before, .octicon-tag-add::before, .octicon-tag::before { content: ""; }
+
+.octicon-telescope::before { content: ""; }
+
+.octicon-terminal::before { content: ""; }
+
+.octicon-three-bars::before { content: ""; }
+
+.octicon-tools::before { content: ""; }
+
+.octicon-trashcan::before { content: ""; }
+
+.octicon-triangle-down::before { content: ""; }
+
+.octicon-triangle-left::before { content: ""; }
+
+.octicon-triangle-right::before { content: ""; }
+
+.octicon-triangle-up::before { content: ""; }
+
+.octicon-unfold::before { content: ""; }
+
+.octicon-unmute::before { content: ""; }
+
+.octicon-versions::before { content: ""; }
+
+.octicon-remove-close::before, .octicon-x::before { content: ""; }
+
+.octicon-zap::before { content: "⚡"; }
+
+.site .deprecation-notice { position: relative; margin: 0px auto; padding: 15px; font-size: 12px; color: rgb(156, 36, 0); border: 1px solid rgb(218, 151, 151); border-radius: 3px; background: -webkit-linear-gradient(top, rgb(248, 216, 216), rgb(239, 208, 208)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px; text-shadow: rgba(255, 255, 255, 0.8) 0px 1px 0px; }
+
+.site .deprecation-notice + .alert { margin-top: 5px; }
+
+.site .deprecation-notice > :first-child { margin-top: 0px; }
+
+.site .deprecation-notice > :last-child { margin-bottom: 0px; }
+------MultipartBoundary--YV1ze0cgFdVE22L4XEGfw0N1yZrCCfDmYvoOj3YdVP------
